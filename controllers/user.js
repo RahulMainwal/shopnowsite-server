@@ -94,7 +94,7 @@ const registrationUser = async (req, res) => {
   <b>One Time Password</b>
 </div>
 <div style="padding: 10px;">
-  <h2>Dear,</h2>
+  <h2>Dear `${fName} ${lName}`,</h2>
   <p>
     Your One Time Password (OTP) is
     <u style="color: #0084c7;"><b>${otp}</b></u>
