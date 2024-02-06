@@ -110,7 +110,7 @@ const registrationUser = async (req, res) => {
     </div>
     <div style="text-align: end; margin-top: 22px; width: 100%;">
       <img
-        src="https://res.cloudinary.com/shopnow-image-cloudinary/image/upload/c_pad,b_auto:predominant,fl_preserve_transparency/v1672504820/logos/1672504244291_rk3w2e.jpg"
+        src="https://res.cloudinary.com/mahatmaji-storage/image/upload/c_pad,b_auto:predominant,fl_preserve_transparency/v1672504820/logos/1672504244291_rk3w2e.jpg"
         alt="Shopnow"
         style="width: 35px;"
       />
